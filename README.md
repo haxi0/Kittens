@@ -4,7 +4,7 @@
 Random cat images using Cataas API. Made this while practicing SwiftUI. Click on the cat image to refresh and get a new one, click on the top left to save the current image to your photos gallery.
 
 # Installing
-You may install the .iPA it with any tool you prefer. TrollStore, AltStore, Sideloadly, any tool.
+You can compile it yourself or either download the .iPA from the releases tab. Install the .iPA it with any tool you prefer. TrollStore, AltStore, Sideloadly, any tool.
 
 # Thanks to
 https://cataas.com/ and https://stackoverflow.com. :)
